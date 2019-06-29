@@ -1,4 +1,4 @@
-# Two Sum II - Input array is sorted
+# 167. Two Sum II - Input array is sorted
 Easy
 
 Given an array of integers that is already **sorted in ascending order**, 
@@ -16,4 +16,14 @@ Note:
 Input: numbers = [2,7,11,15], target = 9
 Output: [1,2]
 Explanation: The sum of 2 and 7 is 9. Therefore index1 = 1, index2 = 2.
+```
+
+```python
+class Solution(object):
+    def twoSum(self, numbers, target):
+        """
+        :type numbers: List[int]
+        :type target: int
+        :rtype: List[int]
+        """
 ```

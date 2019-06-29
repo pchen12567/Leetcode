@@ -1,4 +1,4 @@
-# Add Two Numbers
+# 2. Add Two Numbers
 Medium
 
 You are given two **non-empty** linked lists representing two non-negative integers. 
@@ -14,3 +14,19 @@ Output: 7 -> 0 -> 8
 Explanation: 342 + 465 = 807.
 ```
 
+```python
+# Definition for singly-linked list.
+class ListNode(object):
+    def __init__(self, x):
+        self.val = x
+        self.next = None
+
+
+class Solution(object):
+    def addTwoNumbers(self, l1, l2):
+        """
+        :type l1: ListNode
+        :type l2: ListNode
+        :rtype: ListNode
+        """
+```

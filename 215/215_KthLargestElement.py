@@ -5,6 +5,7 @@ class Solution(object):
         :type k: int
         :rtype: int
         """
+        # 快速选择、堆排序问题
         # Solution: quick sort
         # Time: 56ms
         import random

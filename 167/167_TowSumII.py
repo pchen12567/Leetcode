@@ -5,6 +5,8 @@ class Solution(object):
         :type target: int
         :rtype: List[int]
         """
+
+        # 双指针
         # Solution 1
         # Time: 44ms
         dic = {}
