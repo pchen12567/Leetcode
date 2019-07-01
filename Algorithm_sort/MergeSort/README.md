@@ -23,6 +23,4 @@
 ![](https://github.com/pchen12567/picture_store/blob/master/Algorithm/mergeSort_02.gif?raw=true)
 
 ## 过程分解图
-
-
-
+![](https://github.com/pchen12567/picture_store/blob/master/Algorithm/mergeSort_03.jpg?raw=true)
