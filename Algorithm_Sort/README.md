@@ -19,3 +19,8 @@
 - **不稳定**：如果a原本在b的前面，而a=b，排序之后 a可能会出现在b的后面。
 - **时间复杂度**：对排序数据的总的操作次数。反映当n变化时，操作次数呈现什么规律。
 - **空间复杂度**：是指算法在计算机内执行时所需存储空间的度量，它也是数据规模n的函数。
+
+## 算法详解
+- [冒泡排序: Bubble Sort](https://github.com/pchen12567/Leetcode/tree/master/Algorithm_Sort/BubbleSort)
+- [选择排序: Selection Sort](https://github.com/pchen12567/Leetcode/tree/master/Algorithm_Sort/SelectionSort)
+- [归并排序: Merge Sort](https://github.com/pchen12567/Leetcode/tree/master/Algorithm_Sort/MergeSort)
