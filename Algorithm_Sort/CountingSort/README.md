@@ -19,3 +19,4 @@
 3. 稳定性：稳定。
 
 ## 动图演示
+![](https://github.com/pchen12567/picture_store/blob/master/Algorithm/countingSort_01.gif?raw=true)
