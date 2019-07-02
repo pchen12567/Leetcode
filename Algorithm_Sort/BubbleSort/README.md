@@ -17,3 +17,4 @@
 5. 冒泡排序是一个**稳定排序方式**。
 
 ## 动图演示
+![](https://github.com/pchen12567/picture_store/blob/master/Algorithm/bubbleSort_01.gif?raw=true)
