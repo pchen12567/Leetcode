@@ -25,3 +25,4 @@
 5. 稳定性：不稳定。
 
 ## 动图演示
+![](https://github.com/pchen12567/picture_store/blob/master/Algorithm/quickSort_01.gif?raw=true)
