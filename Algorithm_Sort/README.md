@@ -23,4 +23,8 @@
 ## 算法详解
 - [冒泡排序: Bubble Sort](https://github.com/pchen12567/Leetcode/tree/master/Algorithm_Sort/BubbleSort)
 - [选择排序: Selection Sort](https://github.com/pchen12567/Leetcode/tree/master/Algorithm_Sort/SelectionSort)
+- [插入排序：Insertion Sort](https://github.com/pchen12567/Leetcode/tree/master/Algorithm_Sort/InsertionSort)
 - [归并排序: Merge Sort](https://github.com/pchen12567/Leetcode/tree/master/Algorithm_Sort/MergeSort)
+- [快速排序：Quick Sort](https://github.com/pchen12567/Leetcode/tree/master/Algorithm_Sort/QuickSort)
+- [计数排序：Counting Sort]()
+- [桶排序：Bucket Sort]()
