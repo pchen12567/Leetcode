@@ -19,3 +19,4 @@ $n$个记录的直接选择排序可经过$n-1$趟直接选择排序得到有序
 3. 稳定性：不稳定
 
 ## 动图演示
+![](https://github.com/pchen12567/picture_store/blob/master/Algorithm/selectionSort_01.gif?raw=true)
