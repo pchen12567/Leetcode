@@ -26,5 +26,5 @@
 - [插入排序：Insertion Sort](https://github.com/pchen12567/Leetcode/tree/master/Algorithm_Sort/InsertionSort)
 - [归并排序: Merge Sort](https://github.com/pchen12567/Leetcode/tree/master/Algorithm_Sort/MergeSort)
 - [快速排序：Quick Sort](https://github.com/pchen12567/Leetcode/tree/master/Algorithm_Sort/QuickSort)
-- [计数排序：Counting Sort]()
-- [桶排序：Bucket Sort]()
+- [计数排序：Counting Sort](https://github.com/pchen12567/Leetcode/tree/master/Algorithm_Sort/CountingSort)
+- [桶排序：Bucket Sort](https://github.com/pchen12567/Leetcode/tree/master/Algorithm_Sort/BucketSort)

@@ -13,7 +13,7 @@ class Solution(object):
                 if first + second == target:
                     return [i, i + 1 + j]
 
-        # Solution 2
+        # Solution 2：哈希表
         # Time: 40ms
         hashed = {}
         for i, n in enumerate(nums):
@@ -22,7 +22,7 @@ class Solution(object):
             if target - n in hashed and hashed[target - n] != i:
                 return [i, hashed[target - n]]
 
-        # Solution 3
+        # Solution 3: 哈希表
         # Time: 32ms
         hashed = {}
         for i, n in enumerate(nums):
