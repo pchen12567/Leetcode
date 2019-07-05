@@ -5,8 +5,8 @@ class Solution(object):
         :type t: str
         :rtype: bool
         """
-
-        # Solution: 字符串
+        # 字符串
+        # Solution: Time: O(n), Space: O(n)
         # Time: 36ms
         from collections import defaultdict
 

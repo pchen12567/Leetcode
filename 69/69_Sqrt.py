@@ -4,7 +4,9 @@ class Solution(object):
         :type x: int
         :rtype: int
         """
-        # Solution: 二分
+
+        # 二分
+        # Solution：
         # Time: 12ms
         if x < 2:
             return x
