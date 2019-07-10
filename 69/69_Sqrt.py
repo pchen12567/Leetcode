@@ -6,7 +6,7 @@ class Solution(object):
         """
 
         # 二分
-        # Solution：
+        # Solution：O(nlogN）
         # Time: 12ms
         if x < 2:
             return x
