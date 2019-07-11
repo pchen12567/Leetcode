@@ -4,7 +4,7 @@ class MyQueue(object):
         """
         Initialize your data structure here.
         """
-        self._s1, self.s2 = [], []
+        self._s1, self._s2 = [], []
 
     def push(self, x):
         """
