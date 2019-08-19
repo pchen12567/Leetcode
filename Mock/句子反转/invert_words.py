@@ -2,7 +2,7 @@
 @Coding: uft-8
 @Time: 2019-08-19 20:42
 @Author: Ryne Chen
-@File: inver_words.py
+@File: invert_words.py
 @Python Version: 3.6
 """
 
