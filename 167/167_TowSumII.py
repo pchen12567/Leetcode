@@ -7,7 +7,7 @@ class Solution(object):
         """
 
         # 双指针
-        # Solution 1
+        # Solution 001
         # Time: 44ms
         dic = {}
         for i, n in enumerate(numbers):
@@ -16,7 +16,7 @@ class Solution(object):
             else:
                 dic[n] = i + 1
 
-        # Solution 2
+        # Solution 002
         # Time: 40ms
         start = 0
         end = len(numbers) - 1

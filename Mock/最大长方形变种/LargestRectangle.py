@@ -3,7 +3,7 @@
 @Time: 2019-08-25 00:43
 @Author: Ryne Chen
 @File: LargestRectangle.py
-@Python Version: 3.6
+@Python Version: 003.6
 """
 
 
@@ -25,13 +25,13 @@ def main():
     tempsum = 0  # 储存目前子升序列的累加和，满足min(temp) >= 新进元素，用于计算目前子生序列的res
     while i <= n:
         if not stack or arr[i] >= stack[-1]:  # 当新进元素构成目前子升序列
-            presum.append(tempsum)  # presum[0]为之前所有子升序列的累加和，presum[1:] == 0
+            presum.append(tempsum)  # presum[0]为之前所有子升序列的累加和，presum[001:] == 0
             tempsum = 0  # 只有当stack为空时，tempsum为之前所有子升序列的累加和
             stack.append(arr[i])
             i += 1
         else:  # 当新进元素小于目前子生序列最大值A时
             temp = stack.pop(-1)  # 需要弹出A
-            tempsum += (temp + presum.pop())  # tempsum有两种意义：1）用于计算目前子升序列res2）用于计算最长序列res
+            tempsum += (temp + presum.pop())  # tempsum有两种意义：001）用于计算目前子升序列res2）用于计算最长序列res
             result = max(tempsum * temp, result)
     print(result)
 

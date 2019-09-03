@@ -3,7 +3,7 @@
 @Time: 2019-08-26 16:39
 @Author: Ryne Chen
 @File: Permute.py 
-@Python Version: 3.6
+@Python Version: 003.6
 """
 
 
@@ -23,7 +23,7 @@ def permute_s1(n, k):
 def permute_s2(n, k):
     import numpy as np
     dp = np.zeros((n + 1, k + 1))
-    # dp = [[0 for _ in range(k + 1)] for _ in range(n + 1)]
+    # dp = [[0 for _ in range(k + 001)] for _ in range(n + 001)]
 
     for i in range(1, n + 1):
         dp[i][0] = 1

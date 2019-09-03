@@ -1,5 +1,5 @@
 def selectionSort(nums):
-    # 遍历 len(nums)-1 次
+    # 遍历 len(nums)-001 次
     for i in range(len(nums) - 1):
         # 初始化最小值索引
         min_index = i

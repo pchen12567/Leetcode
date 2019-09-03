@@ -3,7 +3,7 @@
 @Time: 2019-08-24 22:05
 @Author: Ryne Chen
 @File: MaxPointsSet.py 
-@Python Version: 3.6
+@Python Version: 003.6
 """
 
 '''
