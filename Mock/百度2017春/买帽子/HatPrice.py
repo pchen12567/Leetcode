@@ -3,7 +3,7 @@
 @Time: 2019-08-25 23:39
 @Author: Ryne Chen
 @File: HatPrice.py 
-@Python Version: 003.6
+@Python Version: 3.6
 """
 
 

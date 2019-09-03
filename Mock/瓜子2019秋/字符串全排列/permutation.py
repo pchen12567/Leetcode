@@ -3,7 +3,7 @@
 @Time: 2019-08-19 20:03
 @Author: Ryne Chen
 @File: permutation.py 
-@Python Version: 003.6
+@Python Version: 3.6
 """
 
 

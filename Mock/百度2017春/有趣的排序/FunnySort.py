@@ -3,7 +3,7 @@
 @Time: 2019-08-26 00:08
 @Author: Ryne Chen
 @File: FunnySort.py 
-@Python Version: 003.6
+@Python Version: 3.6
 """
 
 

@@ -1,5 +1,5 @@
 def insertionSort(nums):
-    # 遍历 len(nums)-001 次
+    # 遍历 len(nums)-1 次
     for i in range(len(nums) - 1):
         # curNum 保存当前待插入的数
         curNum = nums[i + 1]

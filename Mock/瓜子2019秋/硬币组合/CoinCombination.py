@@ -3,7 +3,7 @@
 @Time: 2019-08-25 18:12
 @Author: Ryne Chen
 @File: CoinCombination.py 
-@Python Version: 003.6
+@Python Version: 3.6
 """
 
 import numpy as np

@@ -6,7 +6,7 @@ class Solution(object):
         """
 
         # 字符串问题
-        # Solution: O(n), O(001)
+        # Solution: O(n), O(1)
         # Time: 20ms
         from collections import defaultdict
 

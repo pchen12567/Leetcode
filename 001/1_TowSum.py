@@ -6,14 +6,14 @@ class Solution(object):
         :rtype: List[int]
         """
 
-        # Solution 001
+        # Solution 1
         # Time: 4580ms
         for i, first in enumerate(nums):
             for j, second in enumerate(nums[i + 1:]):
                 if first + second == target:
                     return [i, i + 1 + j]
 
-        # Solution 002：哈希表
+        # Solution 2：哈希表
         # Time: 40ms
         hashed = {}
         for i, n in enumerate(nums):
@@ -22,7 +22,7 @@ class Solution(object):
             if target - n in hashed and hashed[target - n] != i:
                 return [i, hashed[target - n]]
 
-        # Solution 003: 哈希表
+        # Solution 3: 哈希表
         # Time: 32ms
         hashed = {}
         for i, n in enumerate(nums):

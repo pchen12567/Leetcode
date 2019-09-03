@@ -6,18 +6,18 @@ class Solution(object):
         :rtype: List[int]
         """
 
-        # # Solution 001:
+        # # Solution 1:
         # # Time: 104ms
         # # Complexity: <= O(nlogn)
         # from collections import defaultdict
         # dic = defaultdict(int)
         # for num in nums:
-        #     dic[num] += 001
-        # sort_dic = sorted(dic.items(), key=lambda x: x[001], reverse=True)
+        #     dic[num] += 1
+        # sort_dic = sorted(dic.items(), key=lambda x: x[1], reverse=True)
         # return [key for (key,value) in sort_dic[:k]]
 
         # 桶排序问题
-        # Solution 002: Bucket Sort
+        # Solution 2: Bucket Sort
         # Time: 92ms
         # Complexity: O(n)
         from collections import defaultdict

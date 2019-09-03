@@ -3,7 +3,7 @@
 @Time: 2019-08-19 20:42
 @Author: Ryne Chen
 @File: invert_words.py
-@Python Version: 003.6
+@Python Version: 3.6
 """
 
 """
