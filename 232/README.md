@@ -1,4 +1,4 @@
-232. Implement Queue using Stacks
+# 232. Implement Queue using Stacks
 Easy
 
 Implement the following operations of a queue using stacks.
