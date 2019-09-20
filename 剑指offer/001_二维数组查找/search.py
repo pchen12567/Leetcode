@@ -3,7 +3,7 @@
 @Time: 2019-09-19 23:22
 @Author: Ryne Chen
 @File: search.py 
-@Python Version: 3
+@Python Version: 3.6
 """
 
 

@@ -3,11 +3,10 @@
 @Time: 2019-09-20 01:15
 @Author: Ryne Chen
 @File: mockArray.py 
-@Python Version: 3
+@Python Version: 3.6
 """
 
 
-# -*- coding:utf-8 -*-
 class Solution:
     def __init__(self):
         self.stack_1 = []

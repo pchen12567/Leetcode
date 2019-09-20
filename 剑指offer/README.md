@@ -10,7 +10,11 @@
 
 - 搜索算法
     - [001_二维数组查找](https://github.com/pchen12567/Leetcode/tree/master/%E5%89%91%E6%8C%87offer/001_%E4%BA%8C%E7%BB%B4%E6%95%B0%E7%BB%84%E6%9F%A5%E6%89%BE)
+    - [006_旋转数组的最小数字（二分查找）](https://github.com/pchen12567/Leetcode/tree/master/%E5%89%91%E6%8C%87offer/006_%E6%97%8B%E8%BD%AC%E6%95%B0%E7%BB%84%E7%9A%84%E6%9C%80%E5%B0%8F%E6%95%B0%E5%AD%97)
 
+- 斐波拉契数列
+    - [007_斐波拉契数列](https://github.com/pchen12567/Leetcode/tree/master/%E5%89%91%E6%8C%87offer/007_%E6%96%90%E6%B3%A2%E6%8B%89%E5%A5%91%E6%95%B0%E5%88%97)
+    
 - 其他算法
     - [002_替换空格](https://github.com/pchen12567/Leetcode/tree/master/%E5%89%91%E6%8C%87offer/002_%E6%9B%BF%E6%8D%A2%E7%A9%BA%E6%A0%BC)
     

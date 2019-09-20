@@ -3,7 +3,7 @@
 @Time: 2019-09-20 00:31
 @Author: Ryne Chen
 @File: printLinkedList.py 
-@Python Version: 3
+@Python Version: 3.6
 """
 
 
