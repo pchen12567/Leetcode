@@ -26,7 +26,7 @@ class Solution_2:
     # 返回从尾部到头部的列表值序列，例如[1,2,3]
     def printListFromTailToHead(self, listNode):
         ls = []
-        while listNode is not None:
+        while listNode:
             ls.append(listNode.val)
             listNode = listNode.next
         return [i for i in ls[::-1]]
