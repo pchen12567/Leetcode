@@ -24,14 +24,14 @@ class Solution:
 
         # p2先走，走k-1步，如果k大于链表长度则返回空，否则的话继续走
         while k > 1:
-            if p2.next is not None:
+            if p2.next:
                 p2 = p2.next
                 k -= 1
             else:
                 return None
 
         # 两个指针一起走，一直到p2为最后一个,p1即为所求
-        while p2.next is not None:
+        while p2.next:
             p2 = p2.next
             p1 = p1.next
 
