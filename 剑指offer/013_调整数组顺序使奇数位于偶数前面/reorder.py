@@ -53,15 +53,15 @@ def reOrderArray_3(array):
 
 # 思路四: 双指针，不改变相对位置
 def reOrderArray_4(array):
-    p_odd = 0
+    pivot = 0
     for i in range(len(array)):
         if array[i] % 2 == 1:
             p_search = i
-            while p_search > p_odd:
+            while p_search > pivot:
                 array[p_search], array[p_search - 1] = array[p_search - 1], array[p_search]
                 p_search -= 1
 
-            p_odd += 1
+            pivot += 1
     return array
 
 
