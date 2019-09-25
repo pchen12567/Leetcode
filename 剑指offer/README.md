@@ -40,6 +40,8 @@
 
 - 栈和队列 Stack & Queue
     - [005_用两个栈实现队列](https://github.com/pchen12567/Leetcode/tree/master/%E5%89%91%E6%8C%87offer/005_%E7%94%A8%E4%B8%A4%E4%B8%AA%E6%A0%88%E6%9D%A5%E5%AE%9E%E7%8E%B0%E9%98%9F%E5%88%97)
-   
+    - [020_包含min函数的栈](https://github.com/pchen12567/Leetcode/tree/master/%E5%89%91%E6%8C%87offer/020_%E5%8C%85%E5%90%ABmin%E5%87%BD%E6%95%B0%E7%9A%84%E6%A0%88)
+    - [021_栈的压入弹出序列](https://github.com/pchen12567/Leetcode/tree/master/%E5%89%91%E6%8C%87offer/021_%E6%A0%88%E7%9A%84%E5%8E%8B%E5%85%A5%E5%BC%B9%E5%87%BA%E5%BA%8F%E5%88%97)
+    
 - 矩阵
     - [019_顺时针打印矩阵](https://github.com/pchen12567/Leetcode/tree/master/%E5%89%91%E6%8C%87offer/019_%E9%A1%BA%E6%97%B6%E9%92%88%E6%89%93%E5%8D%B0%E7%9F%A9%E9%98%B5) 
