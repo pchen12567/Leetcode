@@ -19,8 +19,8 @@
     - [010_矩形覆盖](https://github.com/pchen12567/Leetcode/tree/master/%E5%89%91%E6%8C%87offer/010_%E7%9F%A9%E5%BD%A2%E8%A6%86%E7%9B%96)    
 
 - 位运算
-    - [011_二进制中1的个数]()
-    - [012_数值的整数次方]()
+    - [011_二进制中1的个数(待定)]()
+    - [012_数值的整数次方(待定)]()
     
 - 其他算法
     - [002_替换空格](https://github.com/pchen12567/Leetcode/tree/master/%E5%89%91%E6%8C%87offer/002_%E6%9B%BF%E6%8D%A2%E7%A9%BA%E6%A0%BC)
@@ -35,9 +35,9 @@
     - [016_合并两个排序的链表](https://github.com/pchen12567/Leetcode/tree/master/%E5%89%91%E6%8C%87offer/016_%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%8E%92%E5%BA%8F%E7%9A%84%E9%93%BE%E8%A1%A8)
     
 - 树 Tree
-    - [004_重建二叉树]()
-    - [017_树的子结构]()
-    - [018_二叉树的镜像]()
+    - [004_重建二叉树(待定)]()
+    - [017_树的子结构(待定)]()
+    - [018_二叉树的镜像(待定)]()
 
 - 栈和队列 Stack & Queue
     - [005_用两个栈实现队列](https://github.com/pchen12567/Leetcode/tree/master/%E5%89%91%E6%8C%87offer/005_%E7%94%A8%E4%B8%A4%E4%B8%AA%E6%A0%88%E6%9D%A5%E5%AE%9E%E7%8E%B0%E9%98%9F%E5%88%97)
